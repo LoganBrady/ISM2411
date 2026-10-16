@@ -25,7 +25,7 @@ Git allows me to save different versions of my code, while Github allows me to s
 ## Reflection
 ## 1. Commit History
 ```text
-f56ef56 Update README with course and project information
+f56ef65 Update README with course and project information
 f40b1fd ADD Module 7 Python functions assignment
 4389c63 Add Python gitignore file
 f88015b Change header from lowercase to uppercase
